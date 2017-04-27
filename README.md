@@ -1,2 +1,4 @@
 # myfav-repository
-Favorite repositoy
+Favorite repository
+
+Humans are overrated but i still like them
